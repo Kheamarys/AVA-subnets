@@ -38,11 +38,5 @@ mint: Create new tokens and assign them to the caller's address.
 burn: Destroy tokens owned by the caller.
 Make sure to handle your private keys and transactions securely when interacting with the contract on the Ethereum blockchain.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Feel free to explore, modify, and use Solidity by Example as a foundation for your own ERC-20 token projects! If you have any questions or improvements, please open an issue or submit a pull request. Happy coding!
-
-
 
 
